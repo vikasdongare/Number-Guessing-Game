@@ -1,7 +1,7 @@
 #       NUMBER GUESSING GAME
 #
-#Devloped By:- Vikas Laxman Dongare
-#Versin:- 1.0
+# Devloped By:- Vikas Laxman Dongare
+# Versin:- 1.0
 
 import tkinter as tk
 import tkinter.font as font
